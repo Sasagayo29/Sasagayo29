@@ -6,7 +6,7 @@
  ## Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando  Analises e Desenvolvimento de Sistemas 🎮 na faculdade IFTM.
+- 🎓 Cursando  Analises e Desenvolvimento de Sistemas - IFTM.
 - 💼 Trabalhando como Desenvolvedor na ****** Sistemas.
 - 🌱 Aprendendo mais sobre Java.
   
