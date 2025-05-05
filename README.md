@@ -7,7 +7,9 @@
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Cursando  Analises e Desenvolvimento de Sistemas - IFTM.
-- 💼 Trabalhando como Estagiario na Kinross Gold Corporation.
+- 💼 Trabalhando como Tecnico em Informatica na Softcom Tecnologia.
+- 🎯 Trabalhando como Estagiario na Kinross Gold Corporation.
+- 🤖 Desenvolvedor de Script RPA.
 - 🌱 Aprendendo mais sobre Java.
   
   <br>
