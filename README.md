@@ -7,7 +7,7 @@
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Cursando  Analises e Desenvolvimento de Sistemas - IFTM.
-- 💼 Trabalhando como Desenvolvedor na ****** Sistemas.
+- 💼 Trabalhando como Estagiario na Kinross Gold Corporation.
 - 🌱 Aprendendo mais sobre Java.
   
   <br>
