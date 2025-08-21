@@ -1,4 +1,3 @@
-<!-- computaroiaaa + gatinho-->
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Cambria&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Editor+De+Lista+De+Dados+;" />
 </div>
@@ -7,7 +6,6 @@
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Cursando  Analises e Desenvolvimento de Sistemas - IFTM.
-- 💼 Trabalhando como Tecnico em Informatica na Softcom Tecnologia.
 - 🎯 Trabalhando como Estagiario na Kinross Gold Corporation.
 - 🤖 Desenvolvedor de Script RPA.
 - 🌱 Aprendendo mais sobre Java.
