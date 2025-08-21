@@ -56,12 +56,3 @@
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
 </picture>
 <br><br>
-<!-- raposa gif-->
-<div align="right">                                            
-
-
-</div>
-<br>
-<div align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Cambria&size=30&center=true&vCenter=true&width=500&height=70&duration=4000&lines=às+vezes+0+às+vezes+1;" /> <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
-</div>
