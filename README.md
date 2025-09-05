@@ -18,13 +18,14 @@
   <a href="https://github.com/Sasagayo29">
     <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Sasagayo29&show_icons=true&theme=radical"/>
     <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sasagayo29&layout=compact&theme=radical"/>
+   <img height="165em" src="https://github-readme-activity-graph.vercel.app/graph?username=Sasagayo29&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)"/>
   </a>
 </div>
 <br>
 <div align="center">
   <a href = "mailto:riquelmymiyasawaborges@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/riquelmy-miyasawa-borges" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+</div> 
 <br>
 
 <!--tecnologias icone-->
