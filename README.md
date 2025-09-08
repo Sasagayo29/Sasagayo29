@@ -64,7 +64,9 @@
 <img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git"/>
 <img  src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github"/>
 <img height="20" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+ <img height="20" src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio&logoColor=white"/>
 <img height="20" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
+<img height="20" src="https://img.shields.io/badge/NetBeans%20IDE-1B6AC6.svg?logo=apache-netbeans-ide&logoColor=white"/>
 </div></br/>
 
 <!--<h1 align="center">
