@@ -48,12 +48,20 @@
 <img align="center" alt="React" src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB">
  <img align="center" alt="Electron" src="https://img.shields.io/badge/Electron-2B2E3A?logo=electron&logoColor=fff">
   <h2 align="center">
-    Date📊
+    DataBase🧮
   </h2>
  <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff">
  <img align="center" alt="Postgree" src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white">
  <img align="center" alt="Microsoft SQL Server" src="https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?logo=mssqlserver-white&logoColor=white)">
- <img align="center" alt="PowerBI" src="https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff">
+ </div>
+ </br/>
+  <h2 align="center">
+    Data Science📊
+  </h2>
+ <img align="center" alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff">
+ <img align="center" alt="Numpy" src="https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff">
+ <img align="center" alt="PowerBI" src="https://custom-icon-badges.demolab.com/badge/ETL-9370DB?logo=etl-logo&logoColor=fff">
+  <img align="center" alt="ETL" src="https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff">
  </div>
  </br/>
   <h2 align="center">
