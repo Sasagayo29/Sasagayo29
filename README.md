@@ -27,7 +27,7 @@ Tenho facilidade de aprendizado, alta adaptabilidade e perfil proativo para reso
 
 ## 🚀 Habilidades Técnicas</h2>
 
-### <div align="center">🧠 Desenvolvimento Backend</div>
+### <div align="left">🧠 Desenvolvimento Backend</div>
 <br>
 
 <div align="left">
@@ -40,7 +40,7 @@ Tenho facilidade de aprendizado, alta adaptabilidade e perfil proativo para reso
 
 ---
 
-### <div align="center">🌐 Desenvolvimento Frontend</div>
+### <div align="left">🌐 Desenvolvimento Frontend</div>
 <br>
 
 <div align="left">
@@ -54,7 +54,7 @@ Tenho facilidade de aprendizado, alta adaptabilidade e perfil proativo para reso
 
 ---
 
-### <div align="center">🗄️ Banco de Dados</div>
+### <div align="left">🗄️ Banco de Dados</div>
 <br>
 
 <div align="left">
@@ -65,7 +65,7 @@ Tenho facilidade de aprendizado, alta adaptabilidade e perfil proativo para reso
 
 ---
 
-### <div align="center">📊 Data Science e ETL</div>
+### <div align="left">📊 Data Science e ETL</div>
 <br>
 
 <div align="left">
@@ -77,7 +77,7 @@ Tenho facilidade de aprendizado, alta adaptabilidade e perfil proativo para reso
 
 ---
 
-### <div align="center">⚙️ Ferramentas e DevOps</div>
+### <div align="left">⚙️ Ferramentas e DevOps</div>
 <br>
 
 <div align="left">
@@ -98,8 +98,8 @@ Tenho facilidade de aprendizado, alta adaptabilidade e perfil proativo para reso
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
-| 🔧 [MineFlow](https://github.com/Sasagayo29/MineFlow) | Ferramenta de criação de fluxos de trabalho através de uma planilha Excel. | Electron, JavaScript, HTML, CSS, Mermaid.js, SheetJS |
-| 🤖 [RPA Automations - Whatsapp Sender](https://github.com/Sasagayo29/whatsapp_sender) | Scripts RPA para automação de processos corporativos. | Python, Selenium, Pandas, openpyxl |
+| ⛏️ [MineFlow](https://github.com/Sasagayo29/MineFlow) | Ferramenta de criação de fluxos de trabalho através de uma planilha Excel. | Electron, JavaScript, HTML, CSS, Mermaid.js, SheetJS |
+| 🤖 [Whatsapp Sender](https://github.com/Sasagayo29/whatsapp_sender) | Scripts RPA para automação de processos corporativos. | Python, Selenium, Pandas, openpyxl |
 | 📊 [PySent](https://github.com/Sasagayo29/PyzSent) | Análises estatísticas com visualizações de dados. | SheetJS, Chart.js, JavaScript, HTML, CSS |
 
 ---
