@@ -34,7 +34,6 @@ Tenho facilidade de aprendizado, alta adaptabilidade e perfil proativo para reso
 <div align="left">
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white"/>
 </div>
