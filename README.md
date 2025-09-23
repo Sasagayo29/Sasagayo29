@@ -44,8 +44,8 @@ Tenho facilidade de aprendizado, alta adaptabilidade e perfil proativo para reso
 <br>
 
 <div align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff"/>
   <img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB"/>
@@ -81,7 +81,7 @@ Tenho facilidade de aprendizado, alta adaptabilidade e perfil proativo para reso
 <br>
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS%20Code-0078D4?logo=visual%20studio%20code&logoColor=white"/>
