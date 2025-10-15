@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=35&pause=1000&center=true&vCenter=true&random=true&width=435&lines=Data+Analyst;Full+Stack+Dev"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=35&pause=1000&center=true&vCenter=true&random=true&width=435&lines=Industrial+Data+Analyst;Full+Stack+Dev"/>
 </div>
 
 
@@ -8,7 +8,7 @@
 ## 👨‍💻 Sobre
 Sou Desenvolvedor Full Stack com experiência prática em Java, JavaScript, TypeScript, React, Node.js, Python, R e SQL, além de forte domínio em análise e visualização de dados utilizando Power BI e Excel Avançado.
 
-Atualmente, curso Análise e Desenvolvimento de Sistemas pelo IFTM e atuo como estagiário na Kinross Gold Corporation, onde desenvolvo soluções de automação de processos com RPA, macros, VBA e scripts personalizados. Tenho experiência consolidada no desenvolvimento de sistemas internos, dashboards interativos e automações que otimizam fluxos de trabalho, reduzem tarefas manuais e apoiam a tomada de decisão com foco em eficiência operacional e escalabilidade.
+Atualmente, curso Análise e Desenvolvimento de Sistemas pelo IFTM e atuo como Insdustrial Data Analyst na Radix Engenharia e Desenvolvimento de Software, onde desenvolvo soluções de automação de processos com RPA, macros, VBA e scripts personalizados. Tenho experiência consolidada no desenvolvimento de sistemas internos, dashboards interativos e automações que otimizam fluxos de trabalho, reduzem tarefas manuais e apoiam a tomada de decisão com foco em eficiência operacional e escalabilidade.
 
 Minhas principais competências incluem:
 
