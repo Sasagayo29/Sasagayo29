@@ -99,7 +99,7 @@ Tenho facilidade de aprendizado, alta adaptabilidade e perfil proativo para reso
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
 | 🗂️ [NEXUS](https://github.com/Sasagayo29/nexus) | Ferramenta de criação de relatórios de rateio e atualização massiva através de uma planilha Excel. | Python, PySide6, Pandas, Opwnpyxl |
-| ⛏️ [MineFlow](https://github.com/Sasagayo29/MineFlowUgrade) | Ferramenta de criação de fluxos de trabalho através de uma planilha Excel. | Electron, JavaScript, HTML, CSS, Mermaid.js, SheetJS |
+| ⛏️ [MineFlow]([https://github.com/Sasagayo29/MineFlowUgrade) | Ferramenta de criação de fluxos de trabalho através de uma planilha Excel. | Electron, JavaScript, HTML, CSS, Mermaid.js, SheetJS |
 | 🤖 [Whatsapp Sender](https://github.com/Sasagayo29/whatsapp_sender) | Scripts RPA para automação de processos corporativos. | Python, Selenium, Pandas, openpyxl |
 | 📊 [PySent](https://github.com/Sasagayo29/PyzSent) | Análises estatísticas com visualizações de dados. | SheetJS, Chart.js, JavaScript, HTML, CSS |
 
