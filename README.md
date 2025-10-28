@@ -8,7 +8,7 @@
 ## 👨‍💻 Sobre
 Sou Desenvolvedor Full Stack com experiência prática em Java, JavaScript, TypeScript, React, Node.js, Python, R e SQL, além de forte domínio em análise e visualização de dados utilizando Power BI e Excel Avançado.
 
-Atualmente, curso Análise e Desenvolvimento de Sistemas pelo IFTM-Paracatu e atuo como Industrial Data Analyst na Radix Engenharia e Desenvolvimento de Software, onde desenvolvo soluções de automação de processos com RPA, macros, VBA e scripts personalizados. Tenho experiência consolidada no desenvolvimento de sistemas internos, dashboards interativos e automações que otimizam fluxos de trabalho, reduzem tarefas manuais e apoiam a tomada de decisão com foco em eficiência operacional e escalabilidade.
+Atualmente, curso Análise e Desenvolvimento de Sistemas pelo IFTM - Paracatu e atuo como Industrial Data Analyst na Radix Engenharia e Desenvolvimento de Software, onde desenvolvo soluções de automação de processos com RPA, macros, VBA e scripts personalizados. Tenho experiência consolidada no desenvolvimento de sistemas internos, dashboards interativos e automações que otimizam fluxos de trabalho, reduzem tarefas manuais e apoiam a tomada de decisão com foco em eficiência operacional e escalabilidade.
 
 Minhas principais competências incluem:
 
