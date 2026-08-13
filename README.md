@@ -1,4 +1,4 @@
-<div align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true" /> </div> <div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=35&pause=1000&center=true&vCenter=true&random=true&width=600&lines=Industrial+Data+Analyst;Full+Stack+Developer;Automation+%26+Data+Solutions" /> </div>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:00C9A7&height=180&section=header&text=Riquelmy%20Miyasawa%20Borges&fontSize=38&fontColor=FFFFFF&fontAlignY=38&desc=Industrial%20Data%20Analyst%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/> </div> 
 
 
 ---
