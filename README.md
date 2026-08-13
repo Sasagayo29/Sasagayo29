@@ -1,10 +1,4 @@
-<div align="center">
-   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=35&pause=1000&center=true&vCenter=true&random=true&width=435&lines=Industrial+Data+Analyst;Full+Stack+Dev"/>
-</div>
+<div align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true" /> </div> <div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=35&pause=1000&center=true&vCenter=true&random=true&width=600&lines=Industrial+Data+Analyst;Full+Stack+Developer;Automation+%26+Data+Solutions" /> </div>
 
 
 ---
