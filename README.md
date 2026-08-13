@@ -113,11 +113,46 @@ Tenho facilidade de aprendizado, alta adaptabilidade e perfil proativo para reso
  
 ## 📈 Estatísticas GitHub
 
-  <a href="https://github.com/Sasagayo29">
-     <img src="https://github-readme-stats-2oml.vercel.app/api?username=Sasagayo29&show_icons=true&theme=radical&rank_icon=github"/>
-     <img src="https://github-readme-stats-2oml.vercel.app/api/top-langs/?username=Sasagayo29&layout=compact&theme=radical"/>
-     <img src="https://github-readme-activity-graph-xi-rosy.vercel.app/graph?username=Sasagayo29&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true"/>
-  </a>
+  <div align="center">
+
+<img width="70%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sasagayo29&theme=gruvbox" />
+
+<br>
+<br>
+
+<img width="34%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sasagayo29&theme=gruvbox" />
+<img width="34%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sasagayo29&theme=gruvbox&utcOffset=-7" />
+
+<br>
+<br>
+
+<img width="34%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sasagayo29&theme=gruvbox" />
+<img width="34%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sasagayo29&theme=gruvbox" />
+
+</div>
+
+---
+
+# 📈 Actividad
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sasagayo29&theme=tokyo-night&hide_border=true&bg_color=0D1117" />
+
+</div>
+
+<div align="center">
+
+<img width="520" src="https://awesome-github-stats.azurewebsites.net/user-stats/sasagayo29?cardType=github&theme=github-dark&preferLogin=true&Background=07111F&Title=FF4D00&Text=FFFFFF&Ring=FF2200" />
+
+<br>
+<br>
+
+<img width="420" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sasagayo29&theme=gruvbox" />
+
+</div>
+---
+
 </div>
 
 ---
