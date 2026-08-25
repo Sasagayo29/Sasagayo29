@@ -158,12 +158,6 @@ Tenho facilidade de aprendizado, alta adaptabilidade e perfil proativo para reso
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Sasagayo29/Sasagayo29/output/pacman-contribution-graph.svg">
 </picture>
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sasagayo29/Sasagayo29/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sasagayo29/Sasagayo29/output/github-contribution-grid-snake.svg">
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/Sasagayo29/Sasagayo29/output/github-contribution-grid-snake.svg">
-</picture>
-
 ---
 
 ## 📬 Contato
