@@ -24,6 +24,16 @@ Tenho facilidade de aprendizado, alta adaptabilidade e perfil proativo para reso
 
 ---
 
+## 📬 Contato
+
+<div align="center">
+  <a href="mailto:riquelmymiyasawaborges@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/riquelmy-miyasawa-borges" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</div>
+
+
+---
+
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Habilidades Técnicas</h2>
 
 ### <div align="left">🧠 Desenvolvimento Backend</div>
@@ -109,19 +119,19 @@ Tenho facilidade de aprendizado, alta adaptabilidade e perfil proativo para reso
 
   <div align="center">
 
-<img width="70%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sasagayo29&theme=gruvbox" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sasagayo29&theme=gruvbox" />
 
 <br>
 <br>
 
-<img width="34%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sasagayo29&theme=gruvbox" />
-<img width="34%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sasagayo29&theme=gruvbox&utcOffset=-7" />
+<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sasagayo29&theme=gruvbox" />
+<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sasagayo29&theme=gruvbox&utcOffset=-7" />
 
 <br>
 <br>
 
-<img width="34%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sasagayo29&theme=gruvbox" />
-<img width="34%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sasagayo29&theme=gruvbox" />
+<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sasagayo29&theme=gruvbox" />
+<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sasagayo29&theme=gruvbox" />
 
 </div>
 
@@ -131,21 +141,8 @@ Tenho facilidade de aprendizado, alta adaptabilidade e perfil proativo para reso
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sasagayo29&theme=tokyo-night&hide_border=true&bg_color=0D1117" />
+<img width="100%" src="https://awesome-github-stats.azurewebsites.net/user-stats/sasagayo29?cardType=github&theme=github-dark&preferLogin=true&Background=07111F&Title=FF4D00&Text=FFFFFF&Ring=FF2200" />
 
-</div>
-
-<div align="center">
-
-<img width="520" src="https://awesome-github-stats.azurewebsites.net/user-stats/sasagayo29?cardType=github&theme=github-dark&preferLogin=true&Background=07111F&Title=FF4D00&Text=FFFFFF&Ring=FF2200" />
-
-<br>
-<br>
-
-<img width="420" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sasagayo29&theme=gruvbox" />
-
-</div>
----
 
 </div>
 
@@ -159,10 +156,3 @@ Tenho facilidade de aprendizado, alta adaptabilidade e perfil proativo para reso
 </picture>
 
 ---
-
-## 📬 Contato
-
-<div align="center">
-  <a href="mailto:riquelmymiyasawaborges@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/riquelmy-miyasawa-borges" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</div>
